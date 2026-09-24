@@ -1,0 +1,6 @@
+a2a-sdk==0.3.26
+fastapi
+httpx
+google-auth
+uvicorn
+
